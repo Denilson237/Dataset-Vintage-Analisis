@@ -1,0 +1,1001 @@
+color,shirt size,auction,condition,time,Time_cat
+Purple,2XL,2.02,used,17:52:00,apres-midi
+Khaki,XL,2.04,,09:47:00,matin
+Pink,3XL,2.05,used,10:34:00,matin
+Fuscia,XS,2.06,,00:49:00,soir
+Pink,2XL,2.07,,23:12:00,soir
+Mauv,XS,2.08,used,07:02:00,matin
+Aquamarine,XL,2.08,Never Worn,01:32:00,nuit
+Blue,M,2.18,Never Worn,22:55:00,soir
+Orange,L,2.2,used,02:11:00,nuit
+Violet,L,2.21,used,19:16:00,afterwork
+Khaki,3XL,2.22,used,01:29:00,nuit
+Purple,M,2.22,never worn,02:24:00,nuit
+Yellow,XL,2.23,used,13:57:00,midi
+Turquoise,2XL,2.27,used,01:25:00,nuit
+Turquoise,M,2.3,used,12:08:00,midi
+Mauv,XL,2.31,used,13:56:00,midi
+Green,S,2.35,Used,23:17:00,soir
+Turquoise,XS,2.36,Never Worn,00:28:00,soir
+Orange,XL,2.38,used,21:57:00,soir
+Green,M,2.39,used,10:25:00,matin
+Violet,S,2.39,used,19:22:00,afterwork
+Puce,3XL,2.4,Never Worn,19:50:00,afterwork
+Indigo,3XL,2.4,Never Worn,23:53:00,soir
+Khaki,S,2.44,Used,23:44:00,soir
+Violet,XL,2.52,never worn,11:24:00,matin
+Yellow,M,2.52,used,09:31:00,matin
+Teal,3XL,2.53,used,00:22:00,soir
+Khaki,M,2.53,used,15:03:00,apres-midi
+Red,XL,2.54,used,19:40:00,afterwork
+Violet,M,2.54,used,19:48:00,afterwork
+Red,XL,2.63,used,10:20:00,matin
+Maroon,XS,2.64,used,11:12:00,matin
+Blue,3XL,2.66,Never Worn,15:57:00,apres-midi
+Green,L,2.67,used,14:13:00,apres-midi
+Teal,L,2.68,,18:46:00,afterwork
+Blue,L,2.69,used,21:16:00,soir
+Crimson,XS,2.7,Never Worn,09:13:00,matin
+Turquoise,2XL,2.73,Never Worn,12:07:00,midi
+Turquoise,L,2.73,used,08:39:00,matin
+Goldenrod,3XL,2.73,used,10:29:00,matin
+Yellow,3XL,2.73,never worn,10:05:00,matin
+Khaki,L,2.75,used,23:12:00,soir
+Aquamarine,XS,2.76,,14:36:00,apres-midi
+Yellow,L,2.78,used,16:13:00,apres-midi
+Violet,L,2.79,used,16:13:00,apres-midi
+Orange,XS,2.79,used,13:05:00,midi
+Maroon,XS,2.8,Used,08:29:00,matin
+Puce,3XL,2.82,used,03:14:00,nuit
+Blue,M,2.87,Never Worn,23:44:00,soir
+Blue,L,2.89,used,15:10:00,apres-midi
+Maroon,S,2.9,used,14:03:00,apres-midi
+Orange,3XL,2.92,,02:31:00,nuit
+Mauv,XL,2.93,,12:38:00,midi
+Aquamarine,M,2.96,,07:53:00,matin
+Indigo,S,3.01,,04:55:00,nuit
+Mauv,XS,3.01,,11:29:00,matin
+Pink,XL,3.01,used,06:46:00,matin
+Indigo,2XL,3.03,never worn,14:44:00,apres-midi
+Green,XS,3.05,used,16:18:00,apres-midi
+Violet,2XL,3.09,,21:06:00,soir
+Purple,L,3.1,Never Worn,21:43:00,soir
+Khaki,M,3.13,used,07:17:00,matin
+Mauv,XL,3.16,used,03:53:00,nuit
+Pink,L,3.18,,20:27:00,afterwork
+Goldenrod,XL,3.19,used,14:26:00,apres-midi
+Aquamarine,3XL,3.19,used,09:31:00,matin
+Orange,2XL,3.2,used,23:41:00,soir
+Maroon,XL,3.2,used,20:48:00,afterwork
+,S,3.25,used,10:56:00,matin
+Orange,S,3.27,used,09:01:00,matin
+Green,M,3.27,used,20:13:00,afterwork
+Pink,XS,3.28,Never Worn,08:50:00,matin
+Blue,3XL,3.28,used,23:14:00,soir
+Indigo,3XL,3.3,used,05:49:00,nuit
+Orange,3XL,3.3,never worn,10:02:00,matin
+Turquoise,L,3.31,used,22:17:00,soir
+Blue,2XL,3.32,Never Worn,04:38:00,nuit
+Khaki,XS,3.33,used,12:30:00,midi
+Khaki,2XL,3.34,used,11:23:00,matin
+Purple,XS,3.38,used,11:09:00,matin
+Crimson,XL,3.38,Never Worn,04:10:00,nuit
+Maroon,3XL,3.4,used,14:37:00,apres-midi
+Crimson,3XL,3.41,used,01:16:00,nuit
+Pink,XS,3.44,Never Worn,16:04:00,apres-midi
+Fuscia,2XL,3.44,used,08:05:00,matin
+Khaki,XS,3.45,used,07:34:00,matin
+Indigo,S,3.49,used,02:30:00,nuit
+Yellow,S,3.53,,14:33:00,apres-midi
+Yellow,S,3.53,used,02:45:00,nuit
+Khaki,L,3.53,Never Worn,09:19:00,matin
+Yellow,M,3.53,used,11:25:00,matin
+Puce,M,3.54,,01:42:00,nuit
+Orange,3XL,3.54,,11:34:00,matin
+Red,3XL,3.55,used,23:00:00,soir
+Yellow,2XL,3.56,Never Worn,01:23:00,nuit
+Teal,S,3.59,,23:50:00,soir
+Mauv,3XL,3.62,Never Worn,07:52:00,matin
+Aquamarine,2XL,3.63,used,14:44:00,apres-midi
+Mauv,XL,3.65,,11:18:00,matin
+Mauv,XL,3.65,used,13:06:00,midi
+Khaki,2XL,3.69,,06:01:00,nuit
+Maroon,XS,3.69,used,17:14:00,apres-midi
+Khaki,2XL,3.72,used,15:27:00,apres-midi
+,3XL,3.73,never worn,05:53:00,nuit
+Yellow,2XL,3.74,never worn,23:16:00,soir
+Mauv,S,3.78,used,05:27:00,nuit
+Indigo,XL,3.79,used,02:31:00,nuit
+Orange,3XL,3.82,Used,01:06:00,nuit
+Green,2XL,3.84,Never Worn,12:51:00,midi
+Red,L,3.85,used,23:47:00,soir
+Yellow,XL,3.87,Never Worn,16:12:00,apres-midi
+Fuscia,XS,3.88,used,16:09:00,apres-midi
+Purple,M,3.89,,16:15:00,apres-midi
+Green,XS,3.89,used,07:47:00,matin
+Goldenrod,3XL,3.91,used,22:12:00,soir
+Fuscia,2XL,3.92,Never Worn,11:30:00,matin
+Maroon,M,3.93,used,03:54:00,nuit
+Yellow,L,3.93,used,06:22:00,nuit
+Khaki,XS,3.94,used,00:46:00,soir
+Purple,2XL,3.95,used,07:32:00,matin
+Puce,XS,3.97,Never Worn,23:16:00,soir
+Teal,S,4.01,used,14:15:00,apres-midi
+Purple,M,4.02,,14:04:00,apres-midi
+Pink,XL,4.02,,16:48:00,apres-midi
+Maroon,XL,4.02,used,18:21:00,afterwork
+Crimson,L,4.03,used,18:50:00,afterwork
+Blue,XL,4.04,used,03:23:00,nuit
+Blue,S,4.09,used,21:15:00,soir
+Turquoise,M,4.1,used,20:09:00,afterwork
+Goldenrod,M,4.12,Never Worn,19:57:00,afterwork
+Maroon,3XL,4.14,used,12:01:00,midi
+Crimson,XS,4.15,,22:26:00,soir
+Orange,M,4.16,never worn,07:48:00,matin
+Fuscia,M,4.16,used,08:33:00,matin
+Purple,M,4.18,Never Worn,06:54:00,matin
+Khaki,L,4.19,used,14:49:00,apres-midi
+Fuscia,3XL,4.2,,11:10:00,matin
+Goldenrod,2XL,4.22,,19:58:00,afterwork
+,XL,4.23,Never Worn,17:15:00,apres-midi
+Goldenrod,3XL,4.26,used,23:18:00,soir
+Maroon,XL,4.26,,15:33:00,apres-midi
+Teal,L,4.29,Never Worn,16:25:00,apres-midi
+Pink,S,4.3,used,17:20:00,apres-midi
+Khaki,2XL,4.31,never worn,18:54:00,afterwork
+Aquamarine,XS,4.31,Never Worn,01:18:00,nuit
+Mauv,M,4.33,Never Worn,11:34:00,matin
+Yellow,3XL,4.35,Used,07:47:00,matin
+,2XL,4.35,Never Worn,13:06:00,midi
+Orange,2XL,4.36,used,15:45:00,apres-midi
+Violet,S,4.38,,22:26:00,soir
+Yellow,XL,4.39,Never Worn,23:21:00,soir
+Yellow,XL,4.42,used,10:21:00,matin
+Orange,XL,4.43,used,00:02:00,soir
+Maroon,XS,4.43,used,00:13:00,soir
+Red,L,4.45,used,13:07:00,midi
+Pink,3XL,4.46,used,19:16:00,afterwork
+Indigo,L,4.47,used,18:25:00,afterwork
+Yellow,2XL,4.5,used,09:13:00,matin
+Orange,S,4.51,,09:21:00,matin
+Turquoise,S,4.51,used,17:31:00,apres-midi
+Puce,S,4.54,Never Worn,15:23:00,apres-midi
+Fuscia,XS,4.54,used,08:22:00,matin
+Goldenrod,XS,4.58,never worn,21:05:00,soir
+Maroon,L,4.61,used,12:24:00,midi
+Mauv,S,4.62,used,01:06:00,nuit
+Turquoise,2XL,4.65,Never Worn,10:08:00,matin
+Crimson,M,4.67,never worn,10:30:00,matin
+Turquoise,L,4.7,Never Worn,07:27:00,matin
+Fuscia,XL,4.71,never worn,00:16:00,soir
+Green,S,4.71,used,16:05:00,apres-midi
+Khaki,XS,4.73,Never Worn,20:30:00,afterwork
+Fuscia,2XL,4.74,used,06:50:00,matin
+Violet,XS,4.76,used,22:57:00,soir
+Turquoise,M,4.79,used,16:11:00,apres-midi
+Yellow,S,4.81,Never Worn,02:40:00,nuit
+Green,XL,4.82,used,08:33:00,matin
+Green,M,4.84,used,12:00:00,midi
+Fuscia,XL,4.85,used,01:28:00,nuit
+Puce,3XL,4.87,used,04:38:00,nuit
+Green,L,4.87,used,14:52:00,apres-midi
+Violet,3XL,4.88,Never Worn,08:18:00,matin
+Indigo,2XL,4.89,Used,06:03:00,nuit
+Pink,M,4.9,used,07:14:00,matin
+Khaki,S,4.9,used,14:58:00,apres-midi
+Orange,XL,4.92,used,03:02:00,nuit
+Blue,XL,4.92,used,18:31:00,afterwork
+Mauv,M,4.93,,15:34:00,apres-midi
+Khaki,L,4.96,used,02:31:00,nuit
+Yellow,2XL,4.98,never worn,09:47:00,matin
+Maroon,XL,4.99,never worn,01:13:00,nuit
+Purple,2XL,5.0,used,04:05:00,nuit
+Maroon,S,5.03,used,16:19:00,apres-midi
+Yellow,M,5.05,used,18:20:00,afterwork
+Goldenrod,L,5.05,used,18:25:00,afterwork
+Purple,XL,5.07,,02:04:00,nuit
+Crimson,S,5.07,Never Worn,10:29:00,matin
+Khaki,2XL,5.15,used,23:22:00,soir
+Fuscia,S,5.16,used,21:44:00,soir
+Blue,XL,5.17,used,18:00:00,afterwork
+Maroon,3XL,5.18,used,12:39:00,midi
+Fuscia,XS,5.2,used,11:18:00,matin
+Teal,XL,5.21,Never Worn,19:18:00,afterwork
+Maroon,2XL,5.23,used,12:28:00,midi
+Purple,L,5.23,Used,16:30:00,apres-midi
+Red,M,5.24,,16:48:00,apres-midi
+Teal,2XL,5.26,,03:08:00,nuit
+Indigo,3XL,5.27,used,02:57:00,nuit
+Crimson,S,5.3,used,11:26:00,matin
+Turquoise,XS,5.32,used,05:05:00,nuit
+Red,2XL,5.33,used,13:49:00,midi
+Green,S,5.37,never worn,03:39:00,nuit
+Khaki,XS,5.38,Never Worn,23:19:00,soir
+Turquoise,3XL,5.39,used,12:06:00,midi
+Maroon,XL,5.42,Never Worn,11:21:00,matin
+Khaki,M,5.45,Used,21:31:00,soir
+Mauv,S,5.52,used,07:53:00,matin
+Turquoise,S,5.54,used,00:20:00,soir
+Aquamarine,XS,5.57,Never Worn,09:37:00,matin
+Indigo,XS,5.59,used,23:18:00,soir
+Crimson,3XL,5.6,used,20:15:00,afterwork
+Goldenrod,L,5.61,Never Worn,10:52:00,matin
+Orange,3XL,5.62,used,16:27:00,apres-midi
+,2XL,5.62,used,18:23:00,afterwork
+Turquoise,3XL,5.65,,12:04:00,midi
+Purple,XL,5.65,Never Worn,21:43:00,soir
+Aquamarine,L,5.67,,04:37:00,nuit
+Violet,XS,5.67,,23:46:00,soir
+Fuscia,XL,5.68,used,14:06:00,apres-midi
+Blue,S,5.68,used,02:54:00,nuit
+Fuscia,3XL,5.7,,08:03:00,matin
+Puce,2XL,5.72,never worn,01:20:00,nuit
+Blue,XL,5.73,used,20:33:00,afterwork
+Mauv,3XL,5.73,never worn,07:16:00,matin
+Khaki,S,5.74,,09:14:00,matin
+Indigo,XS,5.74,never worn,14:21:00,apres-midi
+Pink,XS,5.74,Never Worn,03:14:00,nuit
+Blue,S,5.75,,19:19:00,afterwork
+Violet,2XL,5.79,,09:56:00,matin
+Pink,3XL,5.79,used,23:33:00,soir
+Yellow,XL,5.79,used,09:48:00,matin
+Crimson,XS,5.8,used,13:09:00,midi
+Yellow,M,5.82,never worn,09:34:00,matin
+Mauv,S,5.83,,18:22:00,afterwork
+Mauv,2XL,5.83,used,00:30:00,soir
+Fuscia,XS,5.91,used,02:39:00,nuit
+Aquamarine,M,5.96,used,07:14:00,matin
+Teal,L,5.97,Used,05:36:00,nuit
+Teal,XS,5.98,Never Worn,22:47:00,soir
+Red,L,5.98,used,05:46:00,nuit
+Aquamarine,XS,5.98,Used,05:23:00,nuit
+Aquamarine,XL,6.0,used,15:52:00,apres-midi
+Blue,XL,6.01,used,14:59:00,apres-midi
+Red,2XL,6.01,used,19:27:00,afterwork
+Turquoise,S,6.02,,12:39:00,midi
+Violet,S,6.02,used,18:22:00,afterwork
+Goldenrod,S,6.05,,08:02:00,matin
+Violet,XS,6.1,used,12:38:00,midi
+Aquamarine,M,6.1,used,20:05:00,afterwork
+Yellow,XS,6.11,Used,00:25:00,soir
+Purple,S,6.11,,18:38:00,afterwork
+Goldenrod,M,6.14,used,00:26:00,soir
+Puce,2XL,6.17,used,17:47:00,apres-midi
+Violet,S,6.19,used,19:15:00,afterwork
+Teal,M,6.22,used,14:32:00,apres-midi
+Puce,2XL,6.25,used,20:39:00,afterwork
+Yellow,3XL,6.26,used,07:47:00,matin
+Khaki,M,6.27,used,05:42:00,nuit
+Blue,3XL,6.34,used,21:45:00,soir
+Khaki,XS,6.37,,06:14:00,nuit
+Maroon,3XL,6.37,used,01:47:00,nuit
+Aquamarine,S,6.41,used,11:33:00,matin
+Puce,XL,6.42,,17:36:00,apres-midi
+Green,XS,6.42,used,19:25:00,afterwork
+Red,S,6.43,used,20:08:00,afterwork
+Puce,M,6.52,never worn,18:14:00,afterwork
+Blue,XL,6.55,Never Worn,22:59:00,soir
+Pink,2XL,6.56,used,11:12:00,matin
+Orange,3XL,6.57,used,20:18:00,afterwork
+Crimson,M,6.58,used,18:01:00,afterwork
+Indigo,2XL,6.6,Used,07:59:00,matin
+Teal,XL,6.63,Never Worn,12:13:00,midi
+Khaki,M,6.63,used,07:35:00,matin
+Purple,M,6.65,used,07:26:00,matin
+Yellow,S,6.66,,08:34:00,matin
+Yellow,M,6.69,used,04:27:00,nuit
+Teal,3XL,6.71,used,06:13:00,nuit
+Crimson,XL,6.72,never worn,22:20:00,soir
+Fuscia,XS,6.74,used,15:29:00,apres-midi
+Green,S,6.75,Never Worn,01:21:00,nuit
+Maroon,2XL,6.76,used,19:15:00,afterwork
+Goldenrod,3XL,6.79,used,23:05:00,soir
+Pink,XL,6.81,used,02:12:00,nuit
+,XL,6.82,used,05:22:00,nuit
+Aquamarine,S,6.84,,09:19:00,matin
+Blue,3XL,6.84,used,09:27:00,matin
+Violet,M,6.86,used,04:56:00,nuit
+Maroon,L,6.87,used,23:44:00,soir
+Indigo,XS,6.88,never worn,14:01:00,apres-midi
+Mauv,2XL,6.89,used,03:15:00,nuit
+Red,S,6.9,used,11:32:00,matin
+Indigo,3XL,6.9,used,17:09:00,apres-midi
+Khaki,3XL,6.92,used,11:36:00,matin
+Mauv,S,6.94,used,04:36:00,nuit
+Teal,3XL,6.95,,07:04:00,matin
+Turquoise,S,6.99,never worn,13:49:00,midi
+Turquoise,S,7.0,Used,09:57:00,matin
+Mauv,XL,7.02,used,13:51:00,midi
+Turquoise,M,7.02,used,02:11:00,nuit
+Maroon,M,7.03,used,21:17:00,soir
+Teal,S,7.08,used,15:19:00,apres-midi
+Orange,3XL,7.09,used,20:17:00,afterwork
+Orange,S,7.1,used,06:47:00,matin
+Turquoise,XL,7.11,used,10:58:00,matin
+Goldenrod,XL,7.15,Never Worn,23:54:00,soir
+Puce,M,7.16,used,06:43:00,matin
+Indigo,S,7.17,used,00:20:00,soir
+Turquoise,2XL,7.17,used,19:40:00,afterwork
+Yellow,S,7.23,used,01:24:00,nuit
+Crimson,3XL,7.31,used,22:10:00,soir
+Mauv,M,7.32,Used,22:42:00,soir
+Khaki,L,7.33,used,20:14:00,afterwork
+Fuscia,XS,7.35,used,12:06:00,midi
+Mauv,L,7.38,Never Worn,14:09:00,apres-midi
+Yellow,XS,7.42,used,12:42:00,midi
+Orange,XL,7.42,used,02:27:00,nuit
+Mauv,2XL,7.44,used,03:59:00,nuit
+Teal,3XL,7.45,,10:37:00,matin
+Pink,S,7.46,Used,22:20:00,soir
+Violet,M,7.47,Never Worn,02:57:00,nuit
+Maroon,XS,7.47,,12:45:00,midi
+Aquamarine,XS,7.47,Never Worn,11:52:00,matin
+Pink,L,7.48,Never Worn,07:00:00,matin
+Indigo,XL,7.49,used,07:02:00,matin
+Turquoise,2XL,7.49,used,17:52:00,apres-midi
+Green,L,7.5,used,12:05:00,midi
+Green,2XL,7.51,used,05:36:00,nuit
+Teal,L,7.51,used,23:14:00,soir
+Goldenrod,L,7.52,used,23:18:00,soir
+Khaki,M,7.53,Never Worn,14:47:00,apres-midi
+Violet,L,7.58,used,19:42:00,afterwork
+Green,3XL,7.59,used,04:11:00,nuit
+Green,M,7.59,used,14:46:00,apres-midi
+Orange,XL,7.64,never worn,18:49:00,afterwork
+Purple,3XL,7.65,used,06:34:00,matin
+,2XL,7.65,Used,04:45:00,nuit
+Pink,L,7.66,Used,01:46:00,nuit
+Violet,3XL,7.67,Never Worn,02:25:00,nuit
+Maroon,S,7.68,used,12:18:00,midi
+Fuscia,XS,7.72,used,07:52:00,matin
+Crimson,S,7.72,Never Worn,11:21:00,matin
+Turquoise,2XL,7.74,used,06:17:00,nuit
+Mauv,L,7.77,used,19:51:00,afterwork
+Aquamarine,S,7.77,never worn,17:02:00,apres-midi
+Puce,S,7.78,used,15:59:00,apres-midi
+Goldenrod,XS,7.79,Never Worn,19:40:00,afterwork
+Crimson,2XL,7.86,never worn,05:35:00,nuit
+Orange,3XL,7.86,,03:32:00,nuit
+Maroon,XS,7.88,,13:06:00,midi
+Green,L,7.89,used,23:34:00,soir
+Mauv,S,7.94,used,07:48:00,matin
+Indigo,2XL,7.95,used,06:39:00,matin
+Yellow,M,7.96,Used,12:27:00,midi
+Violet,M,7.96,used,11:29:00,matin
+Goldenrod,S,8.02,,00:56:00,soir
+Fuscia,L,8.02,used,05:17:00,nuit
+Red,XL,8.03,never worn,15:46:00,apres-midi
+Blue,L,8.03,Used,11:38:00,matin
+Mauv,XL,8.04,used,14:34:00,apres-midi
+Teal,S,8.04,Used,10:16:00,matin
+Indigo,L,8.11,Never Worn,17:08:00,apres-midi
+Maroon,XS,8.14,Never Worn,03:19:00,nuit
+Indigo,S,8.14,,14:53:00,apres-midi
+Green,XS,8.18,Never Worn,09:40:00,matin
+Violet,S,8.21,used,04:17:00,nuit
+Turquoise,3XL,8.21,Never Worn,03:15:00,nuit
+Purple,2XL,8.21,never worn,10:06:00,matin
+,2XL,8.22,used,06:38:00,matin
+Aquamarine,XL,8.23,used,17:31:00,apres-midi
+Mauv,XS,8.26,used,10:14:00,matin
+Violet,XL,8.26,used,01:33:00,nuit
+Indigo,L,8.27,,13:09:00,midi
+Goldenrod,S,8.3,Never Worn,22:17:00,soir
+Maroon,3XL,8.36,used,16:27:00,apres-midi
+Yellow,S,8.4,,12:18:00,midi
+Goldenrod,S,8.41,Never Worn,06:49:00,matin
+Orange,M,8.41,used,23:16:00,soir
+Pink,XS,8.43,,23:44:00,soir
+Pink,XS,8.43,,07:06:00,matin
+Violet,M,8.44,used,12:27:00,midi
+Purple,XS,8.44,used,22:56:00,soir
+Green,2XL,8.45,Used,08:53:00,matin
+Aquamarine,2XL,8.45,Never Worn,16:23:00,apres-midi
+Turquoise,2XL,8.46,,04:47:00,nuit
+Green,2XL,8.48,used,18:41:00,afterwork
+Red,2XL,8.48,used,18:07:00,afterwork
+Indigo,L,8.5,,04:56:00,nuit
+,XL,8.51,used,00:49:00,soir
+Red,L,8.54,used,01:13:00,nuit
+Yellow,L,8.54,used,15:46:00,apres-midi
+Maroon,M,8.55,used,05:28:00,nuit
+Aquamarine,L,8.55,Never Worn,02:30:00,nuit
+Orange,L,8.57,used,00:55:00,soir
+Puce,XS,8.59,used,14:38:00,apres-midi
+,XL,8.59,used,17:57:00,apres-midi
+Blue,S,8.61,used,01:08:00,nuit
+Aquamarine,XS,8.63,Never Worn,04:04:00,nuit
+Fuscia,2XL,8.66,never worn,18:09:00,afterwork
+Indigo,3XL,8.68,used,21:11:00,soir
+Yellow,XL,8.68,used,12:08:00,midi
+Fuscia,S,8.72,,11:46:00,matin
+Orange,2XL,8.72,used,03:09:00,nuit
+Yellow,3XL,8.75,used,19:20:00,afterwork
+Violet,XL,8.76,Never Worn,16:27:00,apres-midi
+Mauv,S,8.77,used,23:50:00,soir
+Orange,M,8.78,used,03:25:00,nuit
+Turquoise,3XL,8.8,used,05:30:00,nuit
+Maroon,M,8.82,,07:42:00,matin
+Purple,M,8.84,Used,13:42:00,midi
+Fuscia,XS,8.84,Never Worn,02:00:00,nuit
+Aquamarine,3XL,8.85,Used,10:46:00,matin
+Mauv,3XL,8.86,used,13:33:00,midi
+Goldenrod,3XL,8.92,Never Worn,02:18:00,nuit
+Yellow,S,8.92,Never Worn,00:58:00,soir
+Pink,2XL,8.93,used,20:04:00,afterwork
+Yellow,L,8.95,Never Worn,15:24:00,apres-midi
+Mauv,L,8.98,used,19:21:00,afterwork
+Yellow,M,8.99,Never Worn,08:21:00,matin
+Khaki,3XL,9.01,used,09:35:00,matin
+Orange,XL,9.02,used,16:44:00,apres-midi
+,XS,9.02,Never Worn,14:42:00,apres-midi
+Turquoise,3XL,9.03,used,01:07:00,nuit
+Teal,3XL,9.04,used,04:11:00,nuit
+Puce,S,9.07,,12:34:00,midi
+Aquamarine,L,9.1,used,01:30:00,nuit
+Goldenrod,XS,9.1,,22:28:00,soir
+Blue,XL,9.18,,15:37:00,apres-midi
+Turquoise,XL,9.18,,15:47:00,apres-midi
+Aquamarine,2XL,9.2,used,17:55:00,apres-midi
+Puce,XS,9.23,used,12:13:00,midi
+Fuscia,XS,9.25,,05:56:00,nuit
+Yellow,2XL,9.27,used,04:30:00,nuit
+Indigo,2XL,9.3,Never Worn,23:39:00,soir
+Purple,XS,9.36,Used,06:41:00,matin
+Crimson,2XL,9.38,used,22:48:00,soir
+Fuscia,3XL,9.4,used,20:01:00,afterwork
+Purple,XL,9.41,never worn,18:07:00,afterwork
+Puce,XL,9.48,,03:18:00,nuit
+Khaki,L,9.5,used,02:32:00,nuit
+Yellow,M,9.52,used,16:22:00,apres-midi
+Orange,XS,9.52,Never Worn,14:45:00,apres-midi
+Aquamarine,XS,9.52,used,05:32:00,nuit
+Fuscia,S,9.52,used,13:58:00,midi
+Violet,L,9.54,used,15:18:00,apres-midi
+Indigo,L,9.56,used,18:52:00,afterwork
+Teal,XS,9.58,Used,09:57:00,matin
+Blue,M,9.58,used,10:10:00,matin
+Purple,XS,9.58,,19:29:00,afterwork
+Green,3XL,9.63,Never Worn,21:41:00,soir
+Indigo,XL,9.64,Never Worn,13:57:00,midi
+Violet,M,9.64,used,21:51:00,soir
+Aquamarine,2XL,9.66,used,06:19:00,nuit
+Puce,3XL,9.68,used,10:18:00,matin
+Teal,3XL,9.69,used,12:48:00,midi
+Red,L,9.69,used,21:19:00,soir
+Turquoise,M,9.7,Never Worn,09:34:00,matin
+Teal,M,9.73,Never Worn,21:59:00,soir
+Green,S,9.75,Never Worn,23:22:00,soir
+Fuscia,M,9.76,,01:01:00,nuit
+Teal,L,9.77,,19:22:00,afterwork
+Turquoise,S,9.8,used,23:26:00,soir
+Yellow,S,9.85,used,10:20:00,matin
+Blue,XL,9.86,used,06:27:00,nuit
+Blue,XL,9.86,used,20:30:00,afterwork
+Purple,3XL,9.86,used,16:58:00,apres-midi
+Crimson,M,9.87,Never Worn,11:53:00,matin
+Maroon,3XL,9.87,used,19:58:00,afterwork
+Purple,L,9.89,used,13:24:00,midi
+Blue,S,9.9,,04:29:00,nuit
+Aquamarine,3XL,9.91,Never Worn,03:01:00,nuit
+Purple,3XL,9.92,Used,05:32:00,nuit
+Green,S,9.93,Never Worn,04:39:00,nuit
+Crimson,L,9.94,used,05:34:00,nuit
+Green,M,9.95,used,04:29:00,nuit
+Maroon,XS,9.97,,01:55:00,nuit
+Blue,XL,9.98,used,23:54:00,soir
+Maroon,L,10.06,,00:36:00,soir
+Purple,XS,10.06,Never Worn,20:56:00,afterwork
+Orange,3XL,10.06,used,02:51:00,nuit
+Pink,XS,10.06,used,04:44:00,nuit
+Yellow,S,10.08,Used,01:45:00,nuit
+Mauv,M,10.09,Never Worn,01:49:00,nuit
+,XS,10.1,,04:56:00,nuit
+Green,2XL,10.11,never worn,15:00:00,apres-midi
+Maroon,2XL,10.14,used,12:44:00,midi
+Aquamarine,L,10.14,Used,05:11:00,nuit
+Blue,3XL,10.19,used,01:13:00,nuit
+Indigo,3XL,10.19,used,07:48:00,matin
+Fuscia,2XL,10.2,never worn,01:41:00,nuit
+Turquoise,XL,10.27,used,16:08:00,apres-midi
+Goldenrod,XS,10.32,Never Worn,23:57:00,soir
+Mauv,XS,10.34,,00:43:00,soir
+Blue,3XL,10.38,,16:44:00,apres-midi
+Crimson,2XL,10.38,used,23:10:00,soir
+Puce,XS,10.39,Used,21:45:00,soir
+Purple,M,10.42,Never Worn,12:49:00,midi
+Yellow,XS,10.43,used,18:42:00,afterwork
+Green,XL,10.45,Never Worn,16:02:00,apres-midi
+Crimson,3XL,10.46,used,15:40:00,apres-midi
+Indigo,2XL,10.49,used,09:34:00,matin
+Maroon,M,10.49,Never Worn,18:14:00,afterwork
+Mauv,S,10.49,,03:47:00,nuit
+Maroon,M,10.5,used,21:37:00,soir
+Maroon,L,10.5,used,21:42:00,soir
+Turquoise,3XL,10.52,used,21:33:00,soir
+Yellow,3XL,10.53,used,00:48:00,soir
+Blue,L,10.53,used,15:24:00,apres-midi
+Blue,XL,10.54,,06:25:00,nuit
+Fuscia,S,10.55,,00:37:00,soir
+Goldenrod,L,10.56,used,01:27:00,nuit
+Mauv,3XL,10.66,used,06:59:00,matin
+Green,L,10.67,,19:07:00,afterwork
+Fuscia,M,10.69,,23:29:00,soir
+Violet,M,10.72,used,07:20:00,matin
+Teal,M,10.72,used,10:02:00,matin
+Crimson,2XL,10.74,never worn,00:07:00,soir
+Goldenrod,M,10.74,used,01:20:00,nuit
+Purple,3XL,10.76,used,18:34:00,afterwork
+Aquamarine,3XL,10.76,Never Worn,22:30:00,soir
+Indigo,XS,10.77,,19:36:00,afterwork
+Red,S,10.83,used,22:21:00,soir
+Red,L,10.84,,00:59:00,soir
+Pink,XL,10.85,used,09:58:00,matin
+Turquoise,XS,10.86,,08:54:00,matin
+Pink,XL,10.87,Never Worn,02:23:00,nuit
+Pink,S,10.87,used,05:13:00,nuit
+Aquamarine,XL,10.88,Never Worn,03:33:00,nuit
+Fuscia,S,10.91,used,01:38:00,nuit
+Puce,3XL,10.91,,07:26:00,matin
+Turquoise,S,10.95,used,13:56:00,midi
+Violet,XS,10.95,Never Worn,00:40:00,soir
+Puce,S,10.97,used,22:23:00,soir
+Puce,S,10.99,Never Worn,03:05:00,nuit
+Khaki,XL,10.99,Never Worn,04:03:00,nuit
+Blue,L,11.01,Never Worn,03:39:00,nuit
+Khaki,3XL,11.02,used,04:00:00,nuit
+Green,XL,11.03,used,05:35:00,nuit
+Indigo,XL,11.04,used,03:24:00,nuit
+Blue,M,11.06,Never Worn,21:17:00,soir
+Crimson,M,11.08,used,00:48:00,soir
+Aquamarine,M,11.09,used,07:08:00,matin
+Purple,S,11.09,used,11:24:00,matin
+Mauv,XS,11.11,used,10:08:00,matin
+Green,S,11.13,,20:23:00,afterwork
+Crimson,XS,11.16,,09:15:00,matin
+Crimson,XS,11.18,Never Worn,09:38:00,matin
+Crimson,XS,11.2,Used,07:51:00,matin
+Turquoise,M,11.2,,21:32:00,soir
+Turquoise,M,11.25,never worn,12:48:00,midi
+Crimson,3XL,11.26,used,11:56:00,matin
+Red,XL,11.27,Used,07:29:00,matin
+Goldenrod,3XL,11.33,used,12:59:00,midi
+Pink,3XL,11.35,used,18:29:00,afterwork
+Aquamarine,XL,11.38,used,20:20:00,afterwork
+Yellow,L,11.39,used,19:40:00,afterwork
+Purple,M,11.4,Never Worn,02:46:00,nuit
+Violet,3XL,11.43,Used,09:32:00,matin
+Khaki,2XL,11.45,,18:46:00,afterwork
+Puce,XL,11.48,used,13:53:00,midi
+Aquamarine,S,11.48,used,05:48:00,nuit
+Orange,S,11.49,used,16:29:00,apres-midi
+Turquoise,XS,11.5,used,12:11:00,midi
+Yellow,S,11.52,,12:30:00,midi
+Maroon,XS,11.53,used,06:17:00,nuit
+Crimson,S,11.57,used,12:36:00,midi
+Blue,XS,11.58,used,03:14:00,nuit
+Turquoise,2XL,11.58,used,00:11:00,soir
+Teal,S,11.6,used,15:14:00,apres-midi
+Fuscia,M,11.63,used,04:08:00,nuit
+Fuscia,2XL,11.64,used,08:01:00,matin
+Blue,XS,11.67,Never Worn,22:54:00,soir
+Khaki,M,11.68,used,13:50:00,midi
+Crimson,S,11.71,Never Worn,19:42:00,afterwork
+Fuscia,XS,11.71,Never Worn,22:04:00,soir
+,XS,11.71,used,08:19:00,matin
+Teal,S,11.71,used,01:40:00,nuit
+Khaki,XS,11.72,used,07:31:00,matin
+Indigo,XL,11.78,Used,10:17:00,matin
+Goldenrod,XS,11.79,used,10:12:00,matin
+Maroon,3XL,11.81,Used,02:09:00,nuit
+Aquamarine,2XL,11.82,used,16:02:00,apres-midi
+Aquamarine,S,11.83,never worn,12:18:00,midi
+Goldenrod,L,11.86,Never Worn,13:07:00,midi
+Pink,XL,11.87,never worn,14:12:00,apres-midi
+Purple,XS,11.87,,03:39:00,nuit
+Aquamarine,2XL,11.9,used,02:06:00,nuit
+Turquoise,M,11.91,,11:12:00,matin
+Pink,M,11.94,,04:31:00,nuit
+Red,S,11.94,used,07:45:00,matin
+Indigo,3XL,11.98,used,01:54:00,nuit
+Red,XL,12.0,used,08:54:00,matin
+Blue,XL,12.01,used,17:07:00,apres-midi
+Green,M,12.08,used,20:00:00,afterwork
+Green,XS,12.1,used,08:57:00,matin
+Red,XL,12.1,used,15:36:00,apres-midi
+Indigo,XL,12.1,used,01:59:00,nuit
+Teal,S,12.11,used,05:49:00,nuit
+Goldenrod,L,12.11,used,08:40:00,matin
+Yellow,L,12.16,used,02:08:00,nuit
+Mauv,XS,12.17,,05:37:00,nuit
+Maroon,XS,12.18,used,17:03:00,apres-midi
+Teal,XL,12.19,used,17:16:00,apres-midi
+Violet,XS,12.24,Never Worn,06:31:00,matin
+Aquamarine,L,12.25,,03:48:00,nuit
+Khaki,3XL,12.29,used,18:42:00,afterwork
+Yellow,S,12.35,used,16:04:00,apres-midi
+Crimson,2XL,12.36,used,10:30:00,matin
+Crimson,M,12.37,used,13:36:00,midi
+Pink,2XL,12.38,used,19:10:00,afterwork
+Orange,M,12.43,used,12:15:00,midi
+Red,3XL,12.51,Never Worn,21:05:00,soir
+Red,L,12.51,Never Worn,22:02:00,soir
+Goldenrod,3XL,12.52,Never Worn,06:41:00,matin
+Aquamarine,L,12.54,,09:45:00,matin
+Maroon,XL,12.55,used,19:05:00,afterwork
+Blue,XS,12.57,used,01:36:00,nuit
+Khaki,3XL,12.58,Never Worn,13:42:00,midi
+Crimson,XL,12.6,,23:20:00,soir
+Violet,2XL,12.62,used,19:38:00,afterwork
+Maroon,2XL,12.63,,00:42:00,soir
+Fuscia,XS,12.64,used,14:59:00,apres-midi
+Aquamarine,2XL,12.66,used,13:50:00,midi
+Blue,XL,12.68,used,19:51:00,afterwork
+Red,2XL,12.69,used,15:36:00,apres-midi
+Crimson,M,12.69,used,11:16:00,matin
+Goldenrod,XS,12.7,Never Worn,13:10:00,midi
+Khaki,S,12.72,used,02:33:00,nuit
+Yellow,3XL,12.74,used,06:06:00,nuit
+Yellow,3XL,12.75,never worn,16:41:00,apres-midi
+Violet,L,12.78,Never Worn,16:01:00,apres-midi
+Fuscia,M,12.79,used,06:22:00,nuit
+Red,XL,12.8,Used,01:37:00,nuit
+Green,S,12.82,,01:58:00,nuit
+Maroon,XS,12.83,Never Worn,12:29:00,midi
+Fuscia,XL,12.87,Never Worn,23:25:00,soir
+Mauv,3XL,12.89,used,20:55:00,afterwork
+Aquamarine,S,12.89,,01:25:00,nuit
+Purple,3XL,12.9,used,23:16:00,soir
+Yellow,3XL,12.91,used,22:54:00,soir
+Fuscia,XS,12.92,,09:32:00,matin
+Puce,L,12.93,Used,10:28:00,matin
+Indigo,M,12.93,used,02:29:00,nuit
+Goldenrod,L,12.94,used,07:44:00,matin
+Blue,M,12.95,used,12:01:00,midi
+Yellow,M,12.95,used,06:50:00,matin
+Turquoise,L,12.95,used,00:09:00,soir
+Khaki,L,12.95,Never Worn,21:49:00,soir
+Goldenrod,S,12.97,used,06:03:00,nuit
+Goldenrod,M,12.98,used,01:33:00,nuit
+Blue,2XL,13.01,used,21:41:00,soir
+Maroon,L,13.03,used,02:05:00,nuit
+Crimson,3XL,13.03,,16:34:00,apres-midi
+Crimson,S,13.04,never worn,12:37:00,midi
+Khaki,XL,13.09,used,23:26:00,soir
+Aquamarine,XL,13.15,used,13:06:00,midi
+Crimson,M,13.15,used,02:56:00,nuit
+Mauv,2XL,13.16,,22:12:00,soir
+Purple,M,13.17,used,15:42:00,apres-midi
+Yellow,XS,13.17,used,07:07:00,matin
+Purple,S,13.17,Used,23:45:00,soir
+Red,2XL,13.23,used,22:35:00,soir
+Fuscia,XL,13.23,used,13:43:00,midi
+Orange,XS,13.25,used,15:26:00,apres-midi
+Fuscia,2XL,13.29,used,17:21:00,apres-midi
+Indigo,S,13.3,used,00:10:00,soir
+Mauv,M,13.31,Used,16:36:00,apres-midi
+Maroon,2XL,13.32,used,22:00:00,soir
+,S,13.33,,18:28:00,afterwork
+Crimson,XS,13.37,used,23:08:00,soir
+Indigo,XS,13.37,,22:35:00,soir
+Aquamarine,S,13.39,,02:12:00,nuit
+Fuscia,L,13.39,,04:51:00,nuit
+Pink,L,13.41,used,12:30:00,midi
+Turquoise,XS,13.46,used,02:04:00,nuit
+Green,M,13.47,used,00:57:00,soir
+Violet,XS,13.48,used,01:46:00,nuit
+Green,XS,13.49,never worn,05:28:00,nuit
+Teal,3XL,13.52,used,21:23:00,soir
+Orange,2XL,13.59,used,04:11:00,nuit
+,3XL,13.59,used,05:53:00,nuit
+Goldenrod,S,13.61,used,22:40:00,soir
+Crimson,XS,13.65,used,04:31:00,nuit
+Red,2XL,13.66,used,18:57:00,afterwork
+Crimson,XL,13.67,used,21:00:00,soir
+Crimson,L,13.72,Never Worn,14:23:00,apres-midi
+Goldenrod,2XL,13.74,used,17:28:00,apres-midi
+Aquamarine,XS,13.76,Never Worn,12:06:00,midi
+Teal,3XL,13.77,used,08:59:00,matin
+Pink,L,13.8,used,09:35:00,matin
+Mauv,M,13.84,Never Worn,03:47:00,nuit
+Mauv,XL,13.84,used,16:26:00,apres-midi
+Pink,3XL,13.84,used,01:14:00,nuit
+Goldenrod,S,13.88,Never Worn,20:07:00,afterwork
+Red,S,13.89,Used,08:57:00,matin
+Khaki,M,13.94,used,02:26:00,nuit
+Blue,L,13.97,used,07:38:00,matin
+Pink,M,13.97,used,01:07:00,nuit
+Khaki,L,13.98,used,02:23:00,nuit
+Aquamarine,3XL,14.06,used,10:00:00,matin
+Purple,S,14.07,Used,11:31:00,matin
+Violet,3XL,14.07,used,23:22:00,soir
+Blue,XL,14.07,used,23:50:00,soir
+Red,XS,14.09,,06:47:00,matin
+Pink,L,14.09,,12:40:00,midi
+Khaki,S,14.12,used,20:59:00,afterwork
+Fuscia,3XL,14.15,used,08:36:00,matin
+Yellow,S,14.19,used,04:31:00,nuit
+Green,2XL,14.19,,18:12:00,afterwork
+Green,2XL,14.22,never worn,16:55:00,apres-midi
+Red,XS,14.23,,23:53:00,soir
+,M,14.37,used,18:16:00,afterwork
+Orange,L,14.46,used,23:32:00,soir
+Green,XL,14.47,used,03:15:00,nuit
+Teal,L,14.49,,12:36:00,midi
+Fuscia,L,14.5,never worn,22:15:00,soir
+Crimson,XL,14.51,,15:26:00,apres-midi
+Goldenrod,XS,14.52,used,00:14:00,soir
+Green,3XL,14.52,Never Worn,22:00:00,soir
+Red,M,14.52,,01:53:00,nuit
+Orange,XS,14.52,,16:43:00,apres-midi
+Aquamarine,XL,14.53,used,15:22:00,apres-midi
+Crimson,L,14.54,,03:40:00,nuit
+Green,2XL,14.55,Never Worn,22:16:00,soir
+Pink,XS,14.56,used,20:09:00,afterwork
+Pink,S,14.58,used,02:11:00,nuit
+Crimson,XL,14.58,,03:55:00,nuit
+Green,XS,14.59,used,15:32:00,apres-midi
+Puce,L,14.6,used,21:47:00,soir
+Turquoise,S,14.6,used,01:37:00,nuit
+Mauv,S,14.62,used,08:24:00,matin
+Khaki,3XL,14.64,Never Worn,07:17:00,matin
+Violet,2XL,14.67,Used,10:36:00,matin
+Yellow,3XL,14.69,Never Worn,22:24:00,soir
+Violet,3XL,14.69,Never Worn,06:18:00,nuit
+Khaki,2XL,14.71,used,18:14:00,afterwork
+Maroon,XL,14.75,used,01:55:00,nuit
+Maroon,S,14.76,Never Worn,04:33:00,nuit
+Aquamarine,3XL,14.77,,03:36:00,nuit
+Orange,M,14.78,used,04:34:00,nuit
+Crimson,S,14.78,used,03:01:00,nuit
+Blue,XS,14.79,Used,19:47:00,afterwork
+Turquoise,L,14.82,Used,01:39:00,nuit
+Red,S,14.82,used,09:29:00,matin
+Pink,2XL,14.83,used,21:04:00,soir
+Khaki,2XL,14.84,used,02:02:00,nuit
+Fuscia,XS,14.85,used,21:31:00,soir
+Teal,XS,14.85,Never Worn,14:22:00,apres-midi
+Aquamarine,XS,14.85,,21:34:00,soir
+Yellow,XL,14.85,used,21:23:00,soir
+Mauv,XS,14.87,used,05:04:00,nuit
+Indigo,M,14.89,Never Worn,13:39:00,midi
+,S,14.89,Never Worn,02:43:00,nuit
+,2XL,14.91,,07:29:00,matin
+Violet,L,14.92,Never Worn,06:39:00,matin
+Red,M,14.92,Never Worn,10:58:00,matin
+Violet,S,14.94,used,06:11:00,nuit
+Maroon,M,14.96,used,08:30:00,matin
+Maroon,S,14.96,used,04:28:00,nuit
+,XL,14.98,Never Worn,21:59:00,soir
+Violet,3XL,15.01,used,00:01:00,soir
+Blue,XS,15.03,used,21:59:00,soir
+Maroon,M,15.11,used,01:39:00,nuit
+Purple,XL,15.11,Never Worn,09:55:00,matin
+Mauv,3XL,15.15,Never Worn,23:55:00,soir
+Mauv,2XL,15.15,Never Worn,03:44:00,nuit
+Orange,M,15.15,used,21:44:00,soir
+Red,2XL,15.18,,19:42:00,afterwork
+Aquamarine,L,15.19,never worn,09:03:00,matin
+Puce,3XL,15.2,used,09:40:00,matin
+Crimson,XS,15.22,Used,18:36:00,afterwork
+Teal,S,15.26,used,00:09:00,soir
+Blue,XL,15.29,Never Worn,00:22:00,soir
+Violet,M,15.29,used,10:33:00,matin
+Blue,3XL,15.29,used,15:12:00,apres-midi
+Purple,XS,15.38,used,01:19:00,nuit
+Pink,S,15.39,,06:33:00,matin
+Violet,L,15.43,used,12:49:00,midi
+Red,3XL,15.44,used,08:36:00,matin
+Yellow,L,15.46,used,08:47:00,matin
+Yellow,M,15.48,used,14:02:00,apres-midi
+Orange,XS,15.58,used,01:33:00,nuit
+Puce,XL,15.59,Never Worn,17:47:00,apres-midi
+Violet,3XL,15.59,used,06:23:00,nuit
+Khaki,3XL,15.6,,20:28:00,afterwork
+Mauv,XS,15.61,used,21:13:00,soir
+Indigo,L,15.61,used,13:39:00,midi
+Purple,M,15.61,,13:35:00,midi
+Teal,2XL,15.63,used,09:22:00,matin
+Pink,L,15.7,used,08:28:00,matin
+Green,3XL,15.72,,03:20:00,nuit
+Fuscia,M,15.72,used,12:30:00,midi
+Yellow,XL,15.77,used,12:17:00,midi
+Violet,XS,15.78,Never Worn,01:36:00,nuit
+Orange,XL,15.79,used,10:18:00,matin
+Pink,2XL,15.81,Never Worn,13:43:00,midi
+Mauv,XS,15.82,Never Worn,10:24:00,matin
+Fuscia,L,15.82,,18:47:00,afterwork
+Yellow,L,15.88,used,16:08:00,apres-midi
+Maroon,XS,15.9,,14:57:00,apres-midi
+Red,S,15.95,Never Worn,19:34:00,afterwork
+Puce,XL,15.96,used,01:11:00,nuit
+Indigo,XL,15.96,Used,19:52:00,afterwork
+Red,2XL,16.0,Used,20:35:00,afterwork
+Orange,XS,16.01,Used,06:18:00,nuit
+Indigo,XL,16.07,Never Worn,01:29:00,nuit
+Pink,XL,16.08,Never Worn,05:51:00,nuit
+Maroon,M,16.11,used,19:19:00,afterwork
+Crimson,3XL,16.11,used,11:24:00,matin
+Yellow,M,16.11,used,02:20:00,nuit
+Violet,S,16.16,Used,04:22:00,nuit
+Aquamarine,S,16.17,used,20:46:00,afterwork
+Puce,2XL,16.18,,14:48:00,apres-midi
+Blue,XS,16.19,Never Worn,21:15:00,soir
+Violet,L,16.19,,11:07:00,matin
+Aquamarine,XS,16.19,Never Worn,07:19:00,matin
+Maroon,S,16.21,used,20:49:00,afterwork
+Aquamarine,2XL,16.25,used,19:55:00,afterwork
+Khaki,M,16.26,used,01:44:00,nuit
+Puce,L,16.26,Never Worn,01:37:00,nuit
+Yellow,S,16.27,used,03:25:00,nuit
+Maroon,S,16.27,Never Worn,21:59:00,soir
+Purple,XS,16.27,used,19:00:00,afterwork
+Yellow,M,16.3,Used,17:39:00,apres-midi
+Yellow,L,16.31,Used,07:44:00,matin
+Yellow,XL,16.31,Never Worn,18:14:00,afterwork
+Green,3XL,16.33,used,02:16:00,nuit
+Yellow,2XL,16.35,,16:16:00,apres-midi
+Fuscia,2XL,16.35,used,04:40:00,nuit
+Purple,XL,16.35,never worn,19:41:00,afterwork
+Violet,3XL,16.37,Used,13:37:00,midi
+Green,M,16.38,used,22:17:00,soir
+Maroon,M,16.42,,16:08:00,apres-midi
+Crimson,M,16.44,used,22:21:00,soir
+Pink,3XL,16.45,used,03:30:00,nuit
+Green,3XL,16.48,,01:16:00,nuit
+Purple,2XL,16.51,used,17:09:00,apres-midi
+Yellow,S,16.52,,03:17:00,nuit
+Orange,XS,16.53,used,13:45:00,midi
+Red,M,16.58,used,11:36:00,matin
+Orange,XS,16.58,used,23:54:00,soir
+Maroon,2XL,16.58,Never Worn,03:22:00,nuit
+Goldenrod,2XL,16.6,used,21:31:00,soir
+Violet,XS,16.6,used,15:00:00,apres-midi
+Turquoise,XL,16.64,used,07:57:00,matin
+Purple,S,16.65,never worn,15:34:00,apres-midi
+Green,M,16.68,used,20:33:00,afterwork
+Red,2XL,16.73,used,10:11:00,matin
+Yellow,3XL,16.75,used,10:03:00,matin
+Pink,M,16.77,used,05:26:00,nuit
+Indigo,XL,16.82,used,07:10:00,matin
+Yellow,S,16.84,,18:57:00,afterwork
+Crimson,M,16.85,used,20:22:00,afterwork
+Pink,M,16.85,used,23:54:00,soir
+Purple,3XL,16.86,used,22:00:00,soir
+Goldenrod,2XL,16.88,used,16:44:00,apres-midi
+Fuscia,M,16.89,Never Worn,19:51:00,afterwork
+Yellow,3XL,16.9,used,03:20:00,nuit
+Pink,S,16.9,Never Worn,21:37:00,soir
+Maroon,2XL,16.91,used,01:17:00,nuit
+Violet,XL,16.94,,13:46:00,midi
+Violet,S,16.95,Never Worn,06:39:00,matin
+Indigo,M,16.95,used,09:05:00,matin
+Red,S,16.96,Never Worn,04:11:00,nuit
+Fuscia,S,17.0,Never Worn,17:47:00,apres-midi
+Yellow,L,17.0,Used,02:22:00,nuit
+Goldenrod,2XL,17.01,used,14:46:00,apres-midi
+Indigo,XL,17.05,used,19:47:00,afterwork
+Indigo,L,17.05,Used,23:15:00,soir
+,XS,17.06,Used,18:14:00,afterwork
+Aquamarine,2XL,17.06,used,18:22:00,afterwork
+Red,XS,17.09,used,10:41:00,matin
+Violet,2XL,17.1,,15:53:00,apres-midi
+Purple,2XL,17.12,never worn,20:43:00,afterwork
+Goldenrod,M,17.14,used,07:11:00,matin
+Pink,3XL,17.16,,23:00:00,soir
+Khaki,3XL,17.17,used,04:18:00,nuit
+Puce,S,17.18,used,15:36:00,apres-midi
+Red,L,17.2,used,16:11:00,apres-midi
+Yellow,XL,17.24,used,13:23:00,midi
+Goldenrod,2XL,17.29,,11:44:00,matin
+Blue,XS,17.31,used,21:44:00,soir
+Orange,3XL,17.32,used,05:03:00,nuit
+Turquoise,XS,17.34,used,21:04:00,soir
+Khaki,M,17.34,used,08:19:00,matin
+Puce,3XL,17.38,Never Worn,19:49:00,afterwork
+Crimson,2XL,17.4,used,23:02:00,soir
+,3XL,17.41,Used,11:19:00,matin
+Yellow,L,17.42,used,01:09:00,nuit
+Turquoise,XS,17.43,never worn,10:50:00,matin
+Purple,3XL,17.43,used,01:03:00,nuit
+Teal,XS,17.44,,02:07:00,nuit
+Pink,L,17.44,,18:39:00,afterwork
+Maroon,M,17.44,,06:32:00,matin
+Khaki,M,17.45,Used,22:43:00,soir
+Aquamarine,XS,17.48,Used,11:25:00,matin
+Goldenrod,M,17.48,used,09:32:00,matin
+Violet,S,17.49,never worn,15:16:00,apres-midi
+Yellow,XS,17.57,,07:53:00,matin
+Turquoise,M,17.57,,03:00:00,nuit
+Indigo,S,17.58,used,06:19:00,nuit
+Orange,L,17.59,used,10:56:00,matin
+Khaki,2XL,17.61,,08:18:00,matin
+Yellow,XS,17.63,used,06:25:00,nuit
+Violet,XS,17.63,used,04:36:00,nuit
+Aquamarine,M,17.63,used,01:38:00,nuit
+Turquoise,S,17.64,used,19:26:00,afterwork
+Indigo,3XL,17.66,Never Worn,05:37:00,nuit
+Goldenrod,M,17.68,,14:57:00,apres-midi
+Green,3XL,17.68,used,06:42:00,matin
+Goldenrod,XS,17.69,Used,01:45:00,nuit
+Fuscia,M,17.71,never worn,23:49:00,soir
+Fuscia,M,17.74,Never Worn,13:22:00,midi
+Goldenrod,S,17.75,Never Worn,22:38:00,soir
+,XS,17.79,,02:55:00,nuit
+Fuscia,XS,17.8,used,02:05:00,nuit
+Turquoise,3XL,17.82,used,11:58:00,matin
+Indigo,S,17.83,Never Worn,20:08:00,afterwork
+Maroon,M,17.84,never worn,17:13:00,apres-midi
+Violet,3XL,17.85,used,20:44:00,afterwork
+Violet,2XL,17.85,used,10:00:00,matin
+Maroon,M,17.87,used,06:07:00,nuit
+Fuscia,XL,17.9,used,01:12:00,nuit
+Goldenrod,XL,17.94,used,17:13:00,apres-midi
+Turquoise,S,17.95,never worn,16:32:00,apres-midi
+Teal,S,17.98,Never Worn,03:25:00,nuit
+Blue,M,18.02,used,06:11:00,nuit
+Red,M,18.02,used,22:50:00,soir
+,S,18.03,used,22:46:00,soir
+Aquamarine,XS,18.04,used,06:07:00,nuit
+Purple,3XL,18.04,used,03:51:00,nuit
+Orange,3XL,18.05,used,08:57:00,matin
+Violet,L,18.05,used,11:44:00,matin
+Pink,XS,18.06,Used,06:20:00,nuit
+Goldenrod,L,18.07,Never Worn,14:35:00,apres-midi
+Turquoise,XL,18.1,used,05:47:00,nuit
+Crimson,3XL,18.1,Never Worn,15:05:00,apres-midi
+Fuscia,XS,18.11,used,10:40:00,matin
+Indigo,L,18.13,used,05:31:00,nuit
+Blue,3XL,18.13,Never Worn,16:55:00,apres-midi
+Blue,3XL,18.14,used,19:20:00,afterwork
+Orange,L,18.17,Never Worn,18:25:00,afterwork
+Aquamarine,M,18.17,never worn,20:06:00,afterwork
+Maroon,XL,18.22,Never Worn,13:11:00,midi
+Mauv,M,18.24,Never Worn,08:22:00,matin
+Orange,XL,18.26,used,02:41:00,nuit
+Turquoise,L,18.3,used,02:08:00,nuit
+Orange,L,18.3,used,15:50:00,apres-midi
+Violet,3XL,18.31,Used,21:33:00,soir
+Khaki,S,18.34,Never Worn,09:41:00,matin
+Red,XL,18.36,,12:38:00,midi
+Yellow,3XL,18.38,used,05:19:00,nuit
+Teal,XL,18.39,used,11:35:00,matin
+Teal,XL,18.39,used,12:53:00,midi
+Orange,S,18.45,used,02:43:00,nuit
+Yellow,XS,18.46,used,17:49:00,apres-midi
+Khaki,XL,18.5,Never Worn,12:55:00,midi
+Fuscia,L,18.51,used,09:53:00,matin
+Pink,3XL,18.51,used,01:05:00,nuit
+Mauv,M,18.52,used,00:16:00,soir
+Turquoise,2XL,18.52,Never Worn,14:40:00,apres-midi
+Goldenrod,XS,18.52,used,22:10:00,soir
+Indigo,XL,18.54,used,14:43:00,apres-midi
+Goldenrod,M,18.55,Never Worn,02:57:00,nuit
+Khaki,2XL,18.57,used,01:48:00,nuit
+Khaki,L,18.57,never worn,16:21:00,apres-midi
+Yellow,XL,18.6,used,17:08:00,apres-midi
+Violet,M,18.6,used,19:59:00,afterwork
+Green,XL,18.6,used,22:47:00,soir
+Fuscia,L,18.61,Never Worn,14:52:00,apres-midi
+Mauv,L,18.62,used,06:29:00,nuit
+Blue,M,18.63,Never Worn,07:17:00,matin
+Red,2XL,18.66,,03:52:00,nuit
+Mauv,3XL,18.66,used,11:14:00,matin
+Crimson,XL,18.67,,10:13:00,matin
+Goldenrod,L,18.68,never worn,17:37:00,apres-midi
+Red,M,18.69,,17:44:00,apres-midi
+Goldenrod,XL,18.71,,06:33:00,matin
+Puce,2XL,18.77,used,08:47:00,matin
+Red,S,18.79,used,11:35:00,matin
+Red,2XL,18.8,Used,18:52:00,afterwork
+Red,XS,18.84,Used,10:26:00,matin
+Pink,XL,18.85,,17:53:00,apres-midi
+Pink,2XL,18.88,used,02:58:00,nuit
+Green,2XL,18.9,Used,10:40:00,matin
+Yellow,3XL,18.91,used,04:24:00,nuit
+Green,L,18.91,,09:09:00,matin
+Pink,M,18.92,used,21:09:00,soir
+Indigo,XL,18.96,Never Worn,01:03:00,nuit
+Violet,3XL,18.98,Used,22:51:00,soir
+Turquoise,XL,18.99,used,17:26:00,apres-midi
+Orange,3XL,19.0,used,11:17:00,matin
